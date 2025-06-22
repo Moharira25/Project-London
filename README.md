@@ -1,4 +1,4 @@
-# CO3093 - Big Data and Predictive Analytics: London Airbnb Price Prediction
+# London Airbnb Price Prediction
 
 This repository contains the coursework submitted for the **CO3093 - Big Data and Predictive Analytics** module. The project aims to predict Airbnb listing prices in London using machine learning techniques.
 
